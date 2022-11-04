@@ -1,0 +1,203 @@
+body{
+    background-color: #E1E1E1;
+    margin: 0;
+    padding: 16px;
+}
+.regsocialIcon{
+    width: 50px;
+    height: 50px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.regform{
+    background-color: white;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+#regheading{
+    font-size: 32px;
+    padding-top: 56px;
+    padding-bottom: 32px;
+}
+#regwrapper{
+    background-color: #f2f6ff;
+    padding: 24px;
+}
+.reginbox{
+    font-size: 18px;
+    padding-bottom: 6px;
+    margin-bottom: 6px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+}
+#reginput-wrapper{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+#regbtn-submit{
+    background-color: #0056ff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 18px;
+    color: white;
+    border: none;
+}
+#header{
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+}
+.headlist a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.headul{
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+.headlist{
+    float: left;
+    border-right: 1px solid #bbb;
+}
+.headlist a:hover{
+    background-color:#191498;
+}
+.headbg{
+    background-image: url(bg4.jpg);
+    height: 200px;
+    width: 100%;
+    opacity: 0.75;
+}
+.mainname{
+    background-color: #4D5959;
+    width: 100%;
+    height: 80px;
+}
+.name{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+}
+table{
+    width: 100%;
+}
+th{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16;
+}
+.table{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+.tableraw1{
+    background-color: thistle;
+    height: 40px;
+    text-align: left;
+}
+.tableraw2{
+    background-color: whitesmoke;
+}
+.tableimage{
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+}
+.tableinfo{
+    width: 550px;
+    padding-left: 5px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tableprice{
+    width: 120px;
+    padding-left: 5px;
+}
+.images{
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+}
+.homedivleft{
+    float: left;
+    background-color: white;
+    padding: 20px;
+    width: 320px;
+    height: 660px;
+}
+.himage{
+    width: 300px;
+    height: 200px;
+    padding: 5px;
+}
+.homedivright{
+    float: right;
+    background-color: thistle;
+    padding: 20px;
+    width: 900px;
+    height: 600px;
+}
+.hrimage{
+    width: 700px;
+    height: 350px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.colomn{
+    float: left;
+    width: 22%;
+    padding: 10px;
+    height: 300px;
+}
+.about{
+    background-color: thistle;
+    padding: 10px;
+}
+.txt{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.name2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+}
+.name3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-decoration: none;
+    padding: 5px;
+}
+.contactdivleft{
+    float: left;
+    background-color: white;
+    padding: 20px;
+    width: 320px;
+    height: 250px;
+}
+.contactdivright{
+    float: right;
+    background-color: thistle;
+    padding: 20px;
+    width: 900px;
+    height: 250px;
+}
